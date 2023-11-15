@@ -1,0 +1,18 @@
+
+.header_section{
+    max-width: 80vw;
+    margin: 0 auto;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+h1{
+    font-family: 'Audiowide', cursive;
+    font-weight: 900;
+}
+p{
+    font-size: 16px;
+    text-align: justify;
+}

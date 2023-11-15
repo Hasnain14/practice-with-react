@@ -1,0 +1,141 @@
+[{
+  "id": 1,
+  "name": "Rasia Guerreru",
+  "course_name": "Introduction to Web Development",
+  "price": 770.65,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": "https://www.creativeitinstitute.com/images/course/course_1663052056.jpg"
+}, {
+  "id": 2,
+  "name": "Claudell Klossmann",
+  "course_name": "Machine Learning",
+  "price": 135.78,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": "https://www.freecodecamp.org/news/content/images/2022/01/machine-learning-banner-2.png"
+}, {
+  "id": 3,
+  "name": "Hazel Fennelly",
+  "course_name": "Neural Networks and Deep Learning",
+  "price": 851.1,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZ_vWNsNlzfSNHIiMOOA5GH57Puj1ib7E8Q&usqp=CAU"
+}, {
+  "id": 4,
+  "name": "Celina Leaton",
+  "course_name": "Graphic Design Elements",
+  "price": 981.77,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": "https://www.graphic-design-institute.com/wp-content/uploads/2020/02/elements-of-design.jpg"
+}, {
+  "id": 5,
+  "name": "Ki Fidgeon",
+  "course_name": "Kotlin for Java Developers",
+  "price": 818.01,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": ""
+}, {
+  "id": 6,
+  "name": "Cherri Loads",
+  "course_name": "Data Science: Linear Regression",
+  "price": 569.4,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": ""
+}, {
+  "id": 7,
+  "name": "Manda Dadson",
+  "course_name": "Introduction to Managerial Economics",
+  "price": 843.72,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": ""
+}, {
+  "id": 8,
+  "name": "Claus Shingfield",
+  "course_name": "Computer Forensics",
+  "price": 657.83,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": ""
+}, {
+  "id": 9,
+  "name": "Ulrikaumeko Elliot",
+  "course_name": "Edgeify",
+  "price": 464.78,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": ""
+}, {
+  "id": 10,
+  "name": "Klement Lathbury",
+  "course_name": "Eidel",
+  "price": 754.64,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": ""
+}, {
+  "id": 11,
+  "name": "Gardie Hessenthaler",
+  "course_name": "LiveZ",
+  "price": 631.46,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": ""
+}, {
+  "id": 12,
+  "name": "Lola Nissle",
+  "course_name": "Tazzy",
+  "price": 780.05,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": ""
+}, {
+  "id": 13,
+  "name": "Giulio Bramich",
+  "course_name": "Yotz",
+  "price": 716.88,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": ""
+}, {
+  "id": 14,
+  "name": "Virgie Paff",
+  "course_name": "Rooxo",
+  "price": 924.92,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": ""
+}, {
+  "id": 15,
+  "name": "Georgeta Pfeffer",
+  "course_name": "Ozu",
+  "price": 932.98,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": ""
+}, {
+  "id": 16,
+  "name": "Thibaut Pauel",
+  "course_name": "Reallinks",
+  "price": 324.01,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": ""
+}, {
+  "id": 17,
+  "name": "Gannon Paulou",
+  "course_name": "Thoughtstorm",
+  "price": 192.6,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": ""
+}, {
+  "id": 18,
+  "name": "Lorraine Leeder",
+  "course_name": "Edgewire",
+  "price": 779.4,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": ""
+}, {
+  "id": 19,
+  "name": "Giselle Tott",
+  "course_name": "Omba",
+  "price": 433.44,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": ""
+}, {
+  "id": 20,
+  "name": "Cathryn Phillot",
+  "course_name": "Trilith",
+  "price": 825.35,
+  "description": "t is a long established fact that a reader will be distract",
+  "images": ""
+}]

@@ -1,0 +1,10 @@
+.card_image{
+    width: 180px;
+    height: 180px;
+   margin: auto;
+}
+
+.price{
+    color: tomato;
+    font-weight: 900;
+}

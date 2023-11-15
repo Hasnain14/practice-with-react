@@ -1,0 +1,18 @@
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    max-width: 95vw;
+    margin: 0 auto;
+    align-items: center;
+    height: 72px;
+}
+.logo_image img{
+    width: 5rem;
+}
+
+ul{
+    list-style: none;
+    color: red;
+    display: flex;
+    gap: 24px;
+}

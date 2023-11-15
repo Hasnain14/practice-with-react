@@ -1,0 +1,92 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(32, 31, 31);
+    
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.top img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+.left{
+    display: flex;
+    gap: 10px;
+}
+.info h4{
+    color: white;
+    font-size: 1.2rem;
+}
+.info p{
+    font-size: 18px;
+    color: rgb(126, 132, 138);
+    
+}
+.time{
+    display: flex;
+    color: rgb(126, 132, 138);
+    font-size: 20px;
+    gap: 4px;
+    align-items: center;
+    
+   
+}
+
+.right{
+    display: flex;
+    gap: 20px;
+    color: rgb(149, 153, 156);
+    margin-top: 5px;
+}
+
+.main{
+    height: 70vh;
+    background-color: rgb(221, 21, 21);
+    font-size: 50px;
+    text-align: center;
+    color: wheat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.main p{
+    padding: 50px;
+}
+.buttom{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 12px;
+    color: rgb(177, 173, 173);
+}
+.right_buttom{
+    display: flex;
+    gap: 20px;
+}
+
+.footer{
+    border-top: 1px solid rgb(141, 137, 137);
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15px;
+}
+.footer button{
+    all: unset;
+    color: rgb(177, 173, 173);
+    height: 50px;
+    display: flex;
+    gap: 4px;
+    align-items: center;
+    font-size: 18px;
+}
